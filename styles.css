@@ -1,20 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
 .center {
     padding-left: 20px;
 }
 
 h1 {
-    font-family: Century Gothic;
+    font-family: 'Roboto Mono', monospace;
     margin-bottom: 0px;
     font-size: 12rem;
     margin-top: 0px;
 }
 
 h2 {
-    font-family: Century Gothic;
+    font-family: 'Roboto Mono', monospace;
 }
 
 h3 {
-    font-family: Century Gothic;
+    font-family: 'Roboto Mono', monospace;
     color: darkgray;
     margin-top: 0px;
     font-size: 5rem;
@@ -23,11 +25,11 @@ h3 {
 }
 
 p {
-    font-family: Century Gothic;
+    font-family: 'Roboto Mono', monospace;
 }
 
 nav {
-    font-family: Century Gothic;
+    font-family: 'Roboto Mono', monospace;
 }
 
 a {
