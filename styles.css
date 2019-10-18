@@ -1,22 +1,22 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
 .center {
     padding-left: 20px;
 }
 
 h1 {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Raleway', sans-serif;
     margin-bottom: 0px;
     font-size: 10rem;
     margin-top: 0px;
 }
 
 h2 {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Raleway', sans-serif;
 }
 
 h3 {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Raleway', sans-serif;
     color: darkgray;
     margin-top: 0px;
     font-size: 4.25rem;
@@ -25,11 +25,11 @@ h3 {
 }
 
 p {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Raleway', sans-serif;
 }
 
 nav {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Raleway', sans-serif;
 }
 
 a {
