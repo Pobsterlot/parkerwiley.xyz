@@ -4,6 +4,10 @@
     padding-left: 19.99px;
 }
 
+body {
+    margin-right: 2rem;
+}
+
 h1 {
     font-family: 'Raleway', sans-serif;
     margin-bottom: 0px;
