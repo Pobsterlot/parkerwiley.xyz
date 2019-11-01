@@ -2,6 +2,7 @@
 
 .center {
     padding-left: 19.99px;
+    
 }
 
 h1 {
@@ -27,7 +28,6 @@ h3 {
 p {
     font-family: 'Raleway', sans-serif;
     margin-right: 10rem;
-    margin-left: 10rem;
 }
 
 li {
