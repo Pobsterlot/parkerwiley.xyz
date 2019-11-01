@@ -28,12 +28,14 @@ p {
     font-family: 'Raleway', sans-serif;
     margin-right: 10rem;
     padding-left: 19.99px;
+    line-height: 1.7rem;
 }
 
 li {
     font-family: 'Raleway', sans-serif;
     margin-right: 10rem;
     padding-left: 19.99px;
+    line-height: 1.6rem;
 }
 
 nav {
