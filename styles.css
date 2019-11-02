@@ -61,4 +61,5 @@ a:active {
 .blogposts {
     text-align: center;
     padding-bottom: 20px;
+    line-height: 4rem;
 }
