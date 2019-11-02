@@ -28,7 +28,7 @@ p {
     margin-right: 20rem;
 }
 
-.footer {
+a.footer:link {
     text-align: center;
     font-family: 'Raleway', sans-serif;
 }
