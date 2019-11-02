@@ -24,13 +24,14 @@ h3 {
 p {
     font-family: 'Raleway', sans-serif;
     line-height: 1.7rem;
-    margin-left: 10rem;
-    margin-right: 10rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
 }
 
 li {
     font-family: 'Raleway', sans-serif;
-    margin-right: 10rem;
+    margin-right: 20rem;
+    margin-left: 20rem;
     line-height: 1.6rem;
 }
 
