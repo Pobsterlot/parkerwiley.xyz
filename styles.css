@@ -57,3 +57,8 @@ a:active {
     color: blue;
     text-decoration: underline;
 }
+
+.blogposts {
+    text-align: center;
+    padding-bottom: 20px;
+}
