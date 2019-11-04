@@ -39,6 +39,10 @@ li {
     line-height: 1.6rem;
 }
 
+.homepage {
+    text-align: center;
+}
+
 nav {
     font-family: 'Raleway', sans-serif;
     text-align: center;
