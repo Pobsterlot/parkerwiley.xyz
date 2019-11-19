@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
-html {
-    border: solid;
-    border: 7px;
-    border: blue;
-}
 
 h1 {
     font-family: 'Raleway', sans-serif;
@@ -43,6 +38,11 @@ li {
     margin-right: 20rem;
     margin-left: 20rem;
     line-height: 1.6rem;
+}
+
+.tweetphoto {
+    text-align: center;
+    width: 200px;
 }
 
 .homepage {
