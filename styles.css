@@ -41,8 +41,21 @@ li {
 }
 
 .tweetphoto {
-    text-align: center;
-    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 400px;
+    border: solid;
+}
+
+.mephoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 250px;
+    border: solid;
 }
 
 .homepage {
